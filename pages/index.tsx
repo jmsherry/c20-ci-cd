@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Image from "next/image";
+// import Image from "next/image";
 import { Geist, Geist_Mono } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 
@@ -27,7 +27,7 @@ export default function Home() {
       >
         <main className={styles.main}>
           <h1>First change</h1>
-          <Image alt="" />
+
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur vero ad ipsa magnam earum rem molestias ut quisquam nam recusandae natus consequuntur, aliquid atque reprehenderit consectetur id voluptatem dolor doloremque?</p>
         </main>
 
