@@ -28,6 +28,7 @@ export default function Home() {
         <main className={styles.main}>
           <h1>First change</h1>
           <Image alt="" />
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur vero ad ipsa magnam earum rem molestias ut quisquam nam recusandae natus consequuntur, aliquid atque reprehenderit consectetur id voluptatem dolor doloremque?</p>
         </main>
 
       </div>
